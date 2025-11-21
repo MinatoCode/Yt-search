@@ -1,0 +1,9 @@
+{
+  "name": "minato-yts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "yt-search": "^2.10.0"
+  }
+}
